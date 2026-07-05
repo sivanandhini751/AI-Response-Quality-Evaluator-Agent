@@ -32,6 +32,7 @@ The AI Response Quality Evaluator Agent is an AI-powered system designed to eval
 | Component | Technology |
 |-----------|------------|
 | Language | Python |
+| Frontend | HTML,CSS,JavaScript |
 | Backend | FastAPI |
 | AI Framework | LangChain |
 | Agent Framework | LangGraph |
@@ -39,6 +40,7 @@ The AI Response Quality Evaluator Agent is an AI-powered system designed to eval
 | Vector Database | ChromaDB / FAISS |
 | Dataset | TruthfulQA, SQuAD |
 | Version Control | Git & GitHub |
+| IDE | Visual Studio |
 
 ---
 
